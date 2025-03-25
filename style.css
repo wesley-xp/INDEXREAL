@@ -1,4 +1,6 @@
 body {
+    
+    text-align: center;
     color: white;
     background: black;
     margin: 0px;
@@ -8,13 +10,16 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+    text-align: center;
+    border-bottom: solid 2px rgb(106, 7, 219);
     padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
+    font-size: 80px;
+    color: rgb(0, 110, 255);
 }
 section {
-    background: rgb(45, 5, 221);
+    
+    text-align: center;
+    background: rgb(66, 68, 212);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -66,5 +71,8 @@ img {
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(255, 255, 255);
 }
+
+
+
